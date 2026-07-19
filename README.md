@@ -1,2 +1,2 @@
-# alexdrevel-smartlink
+# alexdrevel
 Alex Drevel smartlink
